@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"sync"
 
-	"codeup.aliyun.com/viilon/project-x/foundation/bootstrap/dag"
+	"github.com/viilon/bootstrap/dag"
 )
 
 // Bootstrap manages the bootstrap process with dependency injection and topological execution.
